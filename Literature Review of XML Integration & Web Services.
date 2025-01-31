@@ -74,27 +74,32 @@ XML Integration:
 
 Advantages and Disadvantages:
 Web Services
+
 Advantages:
 
-Interoperability: Web services allow communication across platforms and programming languages, making them highly versatile for system integration (Qiu et al., 2016).
-Scalability: Web services can scale efficiently for large, distributed systems and applications (Daconta et al., 2003).
-Security: Web services can implement strong security protocols, ensuring secure data transmission across networks (Naedele, 2003).
+            -Interoperability: Web services allow communication across platforms and programming languages, making them highly versatile for system integration (Qiu et al., 2016).
+            -Scalability: Web services can scale efficiently for large, distributed systems and applications (Daconta et al., 2003).
+            -Security: Web services can implement strong security protocols, ensuring secure data transmission across networks (Naedele, 2003).
+
 Disadvantages:
 
-Complexity: SOAP-based services can be complex to implement and manage due to their extensive use of XML.
-Performance Overhead: SOAP web services, with their large XML payloads, can suffer from slow performance, especially when dealing with large datasets (Qiu et al., 2016).
-Security Risks: Improper implementation of security features can lead to vulnerabilities such as unauthorized access or data breaches (Naedele, 2003).
+            -Complexity: SOAP-based services can be complex to implement and manage due to their extensive use of XML.
+            - Performance Overhead: SOAP web services, with their large XML payloads, can suffer from slow performance, especially when dealing with large datasets (Qiu et al., 2016).
+            -Security Risks: Improper implementation of security features can lead to vulnerabilities such as unauthorized access or data breaches (Naedele, 2003).
+
+
 XML Integration
 Advantages:
 
-Platform Independence: XML can be used across different systems, ensuring compatibility across platforms (Qiu et al., 2016).
-Data Structuring: XML provides a way to structure complex data in a standardized format, which is essential in industries like healthcare (Salem et al., 2013).
-Widely Adopted: XML is widely supported and used across various industries for data representation and exchange (Daconta et al., 2003).
+            -Platform Independence: XML can be used across different systems, ensuring compatibility across platforms (Qiu et al., 2016).
+           -Data Structuring: XML provides a way to structure complex data in a standardized format, which is essential in industries like healthcare (Salem et al., 2013).
+           - Widely Adopted: XML is widely supported and used across various industries for data representation and exchange (Daconta et al., 2003).
+
 Disadvantages:
 
-Performance Overhead: Large XML files can require significant resources for parsing, especially with nested or complex structures (Qiu et al., 2016).
-Complexity: Managing deeply nested XML data structures can be challenging and may require specialized tools for parsing and validation (Salem et al., 2013).
-Large File Sizes: XML documents can be bulky, increasing bandwidth and storage requirements (Daconta et al., 2003).
+            -Performance Overhead: Large XML files can require significant resources for parsing, especially with nested or complex structures (Qiu et al., 2016).
+            -Complexity: Managing deeply nested XML data structures can be challenging and may require specialized tools for parsing and validation (Salem et al., 2013).
+            -Large File Sizes: XML documents can be bulky, increasing bandwidth and storage requirements (Daconta et al., 2003).
 
 
 
@@ -109,16 +114,12 @@ Conclusion:
             -Modern data exchange is complemented by the combination of web services and XML integration. System communication across platforms is fundamentally achieved using web services, while XML is utilized to standardize data representation. The ability to understand these two technologies at a high level is the key to developing effective and secure integration solutions in areas, such as healthcare, finance, and cloud computing.
 
 
-References
+References:
          -Qiu, D., Liu, J., & Zhao, G. (2016). Design and application of data integration platform based on web services and XML. ICEIEC, 253-256.
          -Daconta, M. C., Obrst, L. J., & Smith, K. T. (2003). The Semantic Web: a guide to the future of XML, Web services, and knowledge management. Wiley.
          -Naedele, M. (2003). Standards for XML and Web services security. Computer, 36(4), 96-98.
          -Coyle, F. P. (2002). XML, Web services, and the data revolution. Addison-Wesley Professional.
          -Salem, R., Boussaïd, O., & Darmont, J. (2013). Active XML-based Web data integration. Information Systems Frontiers, 15, 371-398.
-
-
-
-
 
 
 Qiu, D., Liu, J., & Zhao, G. (2016, June). Design and application of data integration platform based on web services and XML. In 2016 6th International Conference on Electronics Information and Emergency Communication (ICEIEC) (pp. 253-256). IEEE.
